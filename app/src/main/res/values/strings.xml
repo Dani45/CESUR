@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CESUR</string>
+    <string name="daniel">daniel</string>
+    <string name="nombre">Nombre</string>
+    <string name="centro">Centro</string>
+    <string name="ciclo">Ciclo</string>
+    <string name="curso">Curso</string>
+    <string name="button">Button</string>
+    <string name="todo">todo</string>
+    <string name="daniel2">daniel</string>
+    <string name="todo2">todo</string>
+    <string name="regresar">Regresar</string>
+    <string name="curso2">curso2</string>
+    <string name="ciclo2">ciclo2</string>
+    <string name="centro2">centro2</string>
+    <string name="nombre2">nombre2</string>
+</resources>
